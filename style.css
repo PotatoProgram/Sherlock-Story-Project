@@ -1,0 +1,8 @@
+/*establish fallback font, so if we have nothing 
+* else on the page, we can still ensure the 
+* stylesheet is working
+* A [Placeholder Text] has been left on every page
+* for this purpose*/
+* {
+    font-family: Arial;
+}

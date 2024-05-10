@@ -6,3 +6,10 @@
 * {
     font-family: Arial;
 }
+
+/*main styling*/
+body#main {
+    background-color: #30598A;
+    color: #FFFFFF;
+    
+}

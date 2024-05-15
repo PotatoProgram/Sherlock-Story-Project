@@ -3,7 +3,7 @@
 }
 
 /*main styling*/
-body#main {
+body {
     background-color: #30598A;
     color: #ffffff;
     
@@ -11,6 +11,16 @@ body#main {
 h1{
     text-align: center;
 }
+
+.center-align {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.right-align {
+    text-align: right;
+}
+
 #firstChoice:hover{
     background:rgb(14, 13, 13);
     border: 1px solid rgb(172, 103, 143);

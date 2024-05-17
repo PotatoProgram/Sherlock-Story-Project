@@ -12,13 +12,17 @@ h1{
     text-align: center;
 }
 
+.left-align {
+    text-align: center;
+}
+
 .center-align {
     margin: 0 auto;
     text-align: center;
 }
 
 .right-align {
-    text-align: right;
+    text-align: center;
 }
 
 #firstChoice:hover{
@@ -48,4 +52,8 @@ h3{
     margin-left: 3em;
     margin-right: 3em;
     word-spacing: 10px;
+}
+
+img {
+    width: 75%;
 }
